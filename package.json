@@ -1,5 +1,5 @@
 {
-  "name": "ggchatapp",
+  "name": "gchatapp",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,5 @@
     "express": "^5.2.1",
     "nodemon": "^3.1.10"
   },
-  "description": ""
+  "description": "AI chat app"
 }
