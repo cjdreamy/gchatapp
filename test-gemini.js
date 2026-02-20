@@ -13,7 +13,7 @@ async function testGemini() {
 
         const genAI = new GoogleGenerativeAI(key);
 
-        const modelsToTry = ["gemini-1.5-flash", "gemini-pro"];
+        const modelsToTry = ["gemini-2.0-flash", "gemini-flash-latest"];
 
         for (const modelName of modelsToTry) {
             try {
